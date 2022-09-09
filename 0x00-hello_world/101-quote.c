@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * main - Prints a text
+ * main - Prints the string in the put function
  *
  * Return: Always 1 (Success)
  */
