@@ -24,4 +24,3 @@ printf("%i", i); /*print i*/
 printf("\n"); /*new line*/
 return (0);
 }
-
