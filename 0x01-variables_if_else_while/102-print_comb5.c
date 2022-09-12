@@ -27,7 +27,9 @@ int main(void)
 				break;
 			}
 			putchar(','); /*print (,)*/
-			putchar (' '); /*prirint a space*/
+
+			putchar (' '); /*print a space*/
+
 		        } /*end for #2*/	
 	} /*end for #1*/
 	putchar('\n'); /*new line*/
