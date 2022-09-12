@@ -41,5 +41,6 @@ putchar (' '); /*prirint a space*/
 } /*end for #1*/
 
 putchar('\n'); /*new line*/
+
 return (0);
 }
