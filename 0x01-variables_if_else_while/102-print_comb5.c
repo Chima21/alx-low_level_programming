@@ -20,19 +20,15 @@ int main(void)
 			putchar (first_nums % 10 + '0'); /*print  first nums, second digit*/
 			
 			putchar (' '); /*prirint a space*/
-
 			putchar (second_nums / 10 + '0'); /*print  sencond nums, first digit*/
 			putchar (second_nums % 10 + '0'); /*print  second nums, second digit*/
-
 			/*break program if the condition is true (if is 98 99)*/if (first_nums == 98 && second_nums == 99)
 			{
 				break;
 			}
 			putchar(','); /*print (,)*/
 			putchar (' '); /*prirint a space*/
-
-		        } /*end for #2*/
-	
+		        } /*end for #2*/	
 	} /*end for #1*/
 	putchar('\n'); /*new line*/
 	return (0);
