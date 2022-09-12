@@ -34,7 +34,6 @@ int main(void)
 		        } /*end for #2*/
 	
 	} /*end for #1*/
-
 	putchar('\n'); /*new line*/
 	return (0);
 }
